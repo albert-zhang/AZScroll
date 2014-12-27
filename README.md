@@ -1,4 +1,5 @@
-AZScroll
-========
+# This repository has moved to AZASScroll
 
-The scroll content, data list, data select component for AS3.
+This repository has moved to: [AZASScroll](https://github.com/albert-zhang/AZASScroll)
+
+`https://github.com/albert-zhang/AZASScroll`
